@@ -1,16 +1,21 @@
-# drawing_app
+#  Drawing App – Made with Flutter
 
-A new Flutter project.
+A minimal yet creative **Flutter Drawing App** that lets users doodle on the screen with freehand drawing tools. Whether you're experimenting with custom painting or just want to sketch something quickly — this app is for you!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Freehand drawing with touch gestures  
+-  Customizable brush color and stroke width (if implemented)  
+-  Clear canvas/reset option  
+-  Smooth rendering with Flutter’s CustomPainter  
+-  Mobile-optimized UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**  
+- **Dart**  
+- CustomPaint & GestureDetector
